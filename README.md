@@ -2,7 +2,7 @@
 **Quarantine Management System implemented in c++.**
 
 ## Project Author
-**Avinash Kumar Jha**
+**Rishi Kant**
 
 ## **Aim**
 The aim of this project is to build a Quarantine centre management system  which works on the entries given by all the visited persons and retrieve the details based on query.
